@@ -1,0 +1,7 @@
+#+title: Clickup.el
+#+author: Vinícius Simões
+#+email: vinicius.simoes95@gmail.com
+
+*  Description
+Emacs interface for ClickUp site. It is unfinished and archived,
+because I won't use ClickUp in my work days anymore.
